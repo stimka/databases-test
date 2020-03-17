@@ -13,5 +13,7 @@
     "allowSyntheticDefaultImports": true,
     "esModuleInterop": true
   },
-  "exclude": ["node_modules"]
+  "exclude": [
+    "banking/node_modules"
+  ]
 }

@@ -1,0 +1,13 @@
+{
+  "name": "test",
+  "version": "0.0.1",
+  "description": "test",
+  "author": {
+    "name": "test",
+    "email": "test",
+    "url": "test"
+  },
+  "dependencies": {
+    "config": "^3.3.0"
+  }
+}

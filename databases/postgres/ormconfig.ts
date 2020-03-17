@@ -9,9 +9,9 @@ const config: ConnectionOptions = {
 	password: appConfig.db.password,
 	database: appConfig.db.database,
 	cli: {
-		migrationsDir: 'migrations',
+		migrationsDir: `${appConfig.app}/migrations`,
 	},
-	migrations: ['migrations/*.ts'],
+	migrations: [`${appConfig.app}/migrations/*.ts`],
 };
 
 export = config;
