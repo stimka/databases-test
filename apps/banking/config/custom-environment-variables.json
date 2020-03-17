@@ -1,0 +1,9 @@
+{
+	"db": {
+		"host": "POSTGRES_HOST",
+		"username": "POSTGRES_USER",
+		"password": "POSTGRES_PASSWORD",
+		"port": "POSTGRES_PORT",
+		"database": "POSTGRES_DATABASE"
+	}
+}

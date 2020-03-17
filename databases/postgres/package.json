@@ -15,6 +15,7 @@
     "migration:create": "APP_NAME=common npm run typeorm:cli migration:create"
   },
   "dependencies": {
+    "config": "^3.3.0",
     "pg": "^7.18.2",
     "ts-node": "^8.6.2",
     "typeorm": "^0.2.24"
