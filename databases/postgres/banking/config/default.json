@@ -1,0 +1,11 @@
+{
+	"db": {
+		"host": "0.0.0.0",
+		"username": "postgres",
+		"password": "postgres",
+		"port": 26972,
+		"database": "dbs-test",
+		"retryAttempts": 15,
+		"retryDelay": 10000
+	}
+}
